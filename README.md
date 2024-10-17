@@ -1,2 +1,2 @@
-# diagramas-del-csm
-Diagramas del giacomelo
+# Malparidos Diagramas para la uni
+Ya no aguanto maaaaaaaaaaaas
