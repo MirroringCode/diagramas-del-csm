@@ -309,8 +309,8 @@
             <mxPoint x="406.5" y="553.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HPWshaFEnBInrYjrLlir-32" value="Envía datos del&amp;nbsp;&lt;div&gt;nuevo ente&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HPWshaFEnBInrYjrLlir-6">
-          <mxGeometry x="-129" y="495.5" width="110" height="40" as="geometry" />
+        <mxCell id="HPWshaFEnBInrYjrLlir-32" value="Envía datos nuevos&amp;nbsp;&lt;br&gt;&lt;div&gt;para modificar al ente&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HPWshaFEnBInrYjrLlir-6">
+          <mxGeometry x="-144" y="495.5" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HPWshaFEnBInrYjrLlir-9" value="Base de&lt;div&gt;datos&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="480" y="89" width="100" height="1171" as="geometry" />
@@ -333,12 +333,6 @@
         <mxCell id="HPWshaFEnBInrYjrLlir-14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="HPWshaFEnBInrYjrLlir-13">
           <mxGeometry x="45" y="501" width="10" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="HPWshaFEnBInrYjrLlir-15" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="HPWshaFEnBInrYjrLlir-13" source="HPWshaFEnBInrYjrLlir-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480.5" y="37" as="sourcePoint" />
-            <mxPoint x="49.5" y="649.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HPWshaFEnBInrYjrLlir-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="HPWshaFEnBInrYjrLlir-13">
           <mxGeometry x="45" y="728" width="10" height="95" as="geometry" />
         </mxCell>
@@ -351,7 +345,7 @@
         <mxCell id="HPWshaFEnBInrYjrLlir-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="HPWshaFEnBInrYjrLlir-13" source="HPWshaFEnBInrYjrLlir-16" target="HPWshaFEnBInrYjrLlir-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HPWshaFEnBInrYjrLlir-35" value="Si los datos no son validos,&lt;div&gt;envía errores para que el&amp;nbsp;&lt;/div&gt;&lt;div&gt;usuario vuelva a ingresar&amp;nbsp;&lt;/div&gt;&lt;div&gt;los datos&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HPWshaFEnBInrYjrLlir-13">
+        <mxCell id="HPWshaFEnBInrYjrLlir-35" value="Si los datos no son validos,&lt;div&gt;envía errores para que el&amp;nbsp;&lt;/div&gt;&lt;div&gt;usuario vuelva a ingresar&amp;nbsp;&lt;/div&gt;&lt;div&gt;los datos y no&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HPWshaFEnBInrYjrLlir-13">
           <mxGeometry x="-145" y="706" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HPWshaFEnBInrYjrLlir-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="HPWshaFEnBInrYjrLlir-13" source="HPWshaFEnBInrYjrLlir-17">
@@ -363,7 +357,7 @@
             <mxPoint x="-135" y="961" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HPWshaFEnBInrYjrLlir-37" value="Crea usuario&lt;div&gt;en BDD&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HPWshaFEnBInrYjrLlir-13">
+        <mxCell id="HPWshaFEnBInrYjrLlir-37" value="Modifica&lt;br&gt;&lt;div&gt;ente en BDD&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HPWshaFEnBInrYjrLlir-13">
           <mxGeometry x="-65" y="921" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HPWshaFEnBInrYjrLlir-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1">
