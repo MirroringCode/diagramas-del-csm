@@ -345,7 +345,7 @@
         <mxCell id="HPWshaFEnBInrYjrLlir-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="HPWshaFEnBInrYjrLlir-13" source="HPWshaFEnBInrYjrLlir-16" target="HPWshaFEnBInrYjrLlir-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HPWshaFEnBInrYjrLlir-35" value="Si los datos no son validos,&lt;div&gt;envía errores para que el&amp;nbsp;&lt;/div&gt;&lt;div&gt;usuario vuelva a ingresar&amp;nbsp;&lt;/div&gt;&lt;div&gt;los datos y no&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HPWshaFEnBInrYjrLlir-13">
+        <mxCell id="HPWshaFEnBInrYjrLlir-35" value="Si los datos no son validos,&lt;div&gt;envía errores para que el&amp;nbsp;&lt;/div&gt;&lt;div&gt;usuario vuelva a ingresar&amp;nbsp;&lt;/div&gt;&lt;div&gt;los datos&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="HPWshaFEnBInrYjrLlir-13">
           <mxGeometry x="-145" y="706" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HPWshaFEnBInrYjrLlir-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="HPWshaFEnBInrYjrLlir-13" source="HPWshaFEnBInrYjrLlir-17">
