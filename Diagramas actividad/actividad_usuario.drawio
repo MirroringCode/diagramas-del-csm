@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.2" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.2" pages="4">
   <diagram name="Página-1" id="8EE6ibz6mlamsGFy62vY">
     <mxGraphModel dx="786" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -148,7 +148,7 @@
         <mxCell id="FcAL8Ux-M97SoNNapywL-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FcAL8Ux-M97SoNNapywL-39" target="FcAL8Ux-M97SoNNapywL-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FcAL8Ux-M97SoNNapywL-39" value="Envía errores de validación para los datos incorrectos y le pide al usuario que vuelva a ingresar los datos&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="FcAL8Ux-M97SoNNapywL-39" value="Envía errores de validación para los datos incorrectos y le pide al administrador que vuelva a ingresar los datos&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="570" y="480" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FcAL8Ux-M97SoNNapywL-45" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -253,7 +253,7 @@
         <mxCell id="lDg7oHTTqUVXJmIEb6y6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lDg7oHTTqUVXJmIEb6y6-8" target="lDg7oHTTqUVXJmIEb6y6-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lDg7oHTTqUVXJmIEb6y6-8" value="Solicita modificar usuario existente y envía datos, además del rol de este nuevo usuario (regular o administrador)" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="lDg7oHTTqUVXJmIEb6y6-8" value="Solicita modificar usuario existente y envía datos, además del rol que se le dará a este usuario (regular o administrador)" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="240" y="130" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lDg7oHTTqUVXJmIEb6y6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lDg7oHTTqUVXJmIEb6y6-11" target="lDg7oHTTqUVXJmIEb6y6-13">
@@ -299,7 +299,7 @@
         <mxCell id="lDg7oHTTqUVXJmIEb6y6-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lDg7oHTTqUVXJmIEb6y6-22" target="lDg7oHTTqUVXJmIEb6y6-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lDg7oHTTqUVXJmIEb6y6-22" value="Envía errores de validación para los datos incorrectos y le pide al usuario que vuelva a ingresar los datos&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="lDg7oHTTqUVXJmIEb6y6-22" value="Envía errores de validación para los datos incorrectos y le pide al administrador que vuelva a ingresar los datos&amp;nbsp;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="690" y="460" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lDg7oHTTqUVXJmIEb6y6-23" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -372,6 +372,101 @@
         </mxCell>
         <mxCell id="lDg7oHTTqUVXJmIEb6y6-43" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="1070" y="760" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="pagina 4" id="fpIzoyNeU62IhDJIbzWS">
+    <mxGraphModel dx="786" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="d3RBIOHuOes8RBChlctk-0" />
+        <mxCell id="d3RBIOHuOes8RBChlctk-1" parent="d3RBIOHuOes8RBChlctk-0" />
+        <mxCell id="d3RBIOHuOes8RBChlctk-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Middleware &quot;admin&quot;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="d3RBIOHuOes8RBChlctk-1">
+          <mxGeometry x="450" y="10" width="210" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="d3RBIOHuOes8RBChlctk-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Controlador de usuarios&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="d3RBIOHuOes8RBChlctk-1">
+          <mxGeometry x="660" y="10" width="210" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="d3RBIOHuOes8RBChlctk-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Usuario&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="d3RBIOHuOes8RBChlctk-1">
+          <mxGeometry x="180" y="10" width="270" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="d3RBIOHuOes8RBChlctk-5" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="d3RBIOHuOes8RBChlctk-1">
+          <mxGeometry x="310" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d3RBIOHuOes8RBChlctk-6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="d3RBIOHuOes8RBChlctk-1" source="d3RBIOHuOes8RBChlctk-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3RBIOHuOes8RBChlctk-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Base de datos&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="d3RBIOHuOes8RBChlctk-1">
+          <mxGeometry x="870" y="10" width="290" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="d3RBIOHuOes8RBChlctk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="d3RBIOHuOes8RBChlctk-1" source="d3RBIOHuOes8RBChlctk-9" target="d3RBIOHuOes8RBChlctk-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d3RBIOHuOes8RBChlctk-9" value="Solicita reiniciar la contraseña de algún usuario" style="html=1;whiteSpace=wrap;" vertex="1" parent="d3RBIOHuOes8RBChlctk-1">
+          <mxGeometry x="240" y="130" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d3RBIOHuOes8RBChlctk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="d3RBIOHuOes8RBChlctk-1" source="d3RBIOHuOes8RBChlctk-12" target="d3RBIOHuOes8RBChlctk-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3RBIOHuOes8RBChlctk-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="d3RBIOHuOes8RBChlctk-1" source="d3RBIOHuOes8RBChlctk-12" target="d3RBIOHuOes8RBChlctk-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d3RBIOHuOes8RBChlctk-12" value="¿Es administrador?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="d3RBIOHuOes8RBChlctk-1">
+          <mxGeometry x="510" y="120" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="d3RBIOHuOes8RBChlctk-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="d3RBIOHuOes8RBChlctk-1" source="d3RBIOHuOes8RBChlctk-14" target="d3RBIOHuOes8RBChlctk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d3RBIOHuOes8RBChlctk-14" value="Envía mensaje de error 404" style="html=1;whiteSpace=wrap;" vertex="1" parent="d3RBIOHuOes8RBChlctk-1">
+          <mxGeometry x="485" y="260" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="d3RBIOHuOes8RBChlctk-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="d3RBIOHuOes8RBChlctk-1" source="d3RBIOHuOes8RBChlctk-16" target="d3RBIOHuOes8RBChlctk-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d3RBIOHuOes8RBChlctk-16" value="Recibe la nueva contraseña" style="html=1;whiteSpace=wrap;" vertex="1" parent="d3RBIOHuOes8RBChlctk-1">
+          <mxGeometry x="700" y="140" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="d3RBIOHuOes8RBChlctk-17" value="Si" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="d3RBIOHuOes8RBChlctk-1">
+          <mxGeometry x="590" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d3RBIOHuOes8RBChlctk-18" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="d3RBIOHuOes8RBChlctk-1">
+          <mxGeometry x="480" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d3RBIOHuOes8RBChlctk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="d3RBIOHuOes8RBChlctk-1" source="d3RBIOHuOes8RBChlctk-21" target="d3RBIOHuOes8RBChlctk-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XRytEIu_jL0mDjv664-v-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="d3RBIOHuOes8RBChlctk-1" source="d3RBIOHuOes8RBChlctk-21" target="XRytEIu_jL0mDjv664-v-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d3RBIOHuOes8RBChlctk-21" value="¿Es valida&lt;span style=&quot;background-color: initial;&quot;&gt;?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="d3RBIOHuOes8RBChlctk-1">
+          <mxGeometry x="735" y="325" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d3RBIOHuOes8RBChlctk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="d3RBIOHuOes8RBChlctk-1" source="d3RBIOHuOes8RBChlctk-23" target="d3RBIOHuOes8RBChlctk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d3RBIOHuOes8RBChlctk-23" value="Envía errores de validación para los datos incorrectos y le pide al administrador que vuelva a ingresar la contraseña" style="html=1;whiteSpace=wrap;" vertex="1" parent="d3RBIOHuOes8RBChlctk-1">
+          <mxGeometry x="690" y="460" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d3RBIOHuOes8RBChlctk-24" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="d3RBIOHuOes8RBChlctk-1">
+          <mxGeometry x="780" y="405" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d3RBIOHuOes8RBChlctk-25" value="Si" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="d3RBIOHuOes8RBChlctk-1">
+          <mxGeometry x="810" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XRytEIu_jL0mDjv664-v-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="d3RBIOHuOes8RBChlctk-1" source="XRytEIu_jL0mDjv664-v-0" target="XRytEIu_jL0mDjv664-v-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XRytEIu_jL0mDjv664-v-0" value="La contraseña del usuario es reiniciada por otra" style="html=1;whiteSpace=wrap;" vertex="1" parent="d3RBIOHuOes8RBChlctk-1">
+          <mxGeometry x="980" y="340" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XRytEIu_jL0mDjv664-v-2" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="d3RBIOHuOes8RBChlctk-1">
+          <mxGeometry x="1020" y="500" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
