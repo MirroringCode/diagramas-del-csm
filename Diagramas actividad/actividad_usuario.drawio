@@ -164,12 +164,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FcAL8Ux-M97SoNNapywL-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FcAL8Ux-M97SoNNapywL-47" target="FcAL8Ux-M97SoNNapywL-70">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="962" y="385" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="FcAL8Ux-M97SoNNapywL-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FcAL8Ux-M97SoNNapywL-47" target="FcAL8Ux-M97SoNNapywL-74">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FcAL8Ux-M97SoNNapywL-47" value="¿Usuario&lt;div&gt;ya existe?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="345" width="80" height="80" as="geometry" />
@@ -186,14 +182,47 @@
         <mxCell id="FcAL8Ux-M97SoNNapywL-55" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="900" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FcAL8Ux-M97SoNNapywL-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FcAL8Ux-M97SoNNapywL-70" target="FcAL8Ux-M97SoNNapywL-72">
+        <mxCell id="FcAL8Ux-M97SoNNapywL-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FcAL8Ux-M97SoNNapywL-74" target="FcAL8Ux-M97SoNNapywL-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FcAL8Ux-M97SoNNapywL-70" value="Crea usuario en BDD" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="907" y="585" width="110" height="50" as="geometry" />
+        <mxCell id="FcAL8Ux-M97SoNNapywL-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FcAL8Ux-M97SoNNapywL-74" target="FcAL8Ux-M97SoNNapywL-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="600" />
+              <mxPoint x="1020" y="670" />
+              <mxPoint x="962" y="670" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="FcAL8Ux-M97SoNNapywL-72" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="947" y="710" width="30" height="30" as="geometry" />
+        <mxCell id="FcAL8Ux-M97SoNNapywL-74" value="¿Será&lt;div&gt;administrador?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="550" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FcAL8Ux-M97SoNNapywL-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FcAL8Ux-M97SoNNapywL-76" target="FcAL8Ux-M97SoNNapywL-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FcAL8Ux-M97SoNNapywL-76" value="Crea nuevo usuario regular" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="770" y="690" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FcAL8Ux-M97SoNNapywL-77" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="907" y="690" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FcAL8Ux-M97SoNNapywL-81" value="Si" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FcAL8Ux-M97SoNNapywL-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FcAL8Ux-M97SoNNapywL-83" target="FcAL8Ux-M97SoNNapywL-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FcAL8Ux-M97SoNNapywL-83" value="Crea nuevo usuario administrador" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="910" y="690" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FcAL8Ux-M97SoNNapywL-84" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FcAL8Ux-M97SoNNapywL-85" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="810" y="780" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FcAL8Ux-M97SoNNapywL-87" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="950" y="780" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
