@@ -11,13 +11,13 @@
           <mxGeometry x="10" y="200" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="76cBSY4xD8Pk0UBM5iLu-4" value="REALIZACIÓN DE&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;AUDITORÍAS EN&amp;nbsp;&lt;/div&gt;&lt;div&gt;MATERIA FISCAL&lt;/div&gt;&lt;div&gt;A LOS ENTES&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=40;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="240" y="200" width="200" height="120" as="geometry" />
+          <mxGeometry x="250" y="200" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="76cBSY4xD8Pk0UBM5iLu-5" value="HACER&amp;nbsp;&lt;div&gt;SEGUIMIENTOS DE&amp;nbsp;&lt;/div&gt;&lt;div&gt;LAS AUDITORÍAS&lt;/div&gt;&lt;div&gt;REALIZADAS A&lt;/div&gt;&lt;div&gt;LOS ENTES&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=40;" vertex="1" parent="1">
-          <mxGeometry x="460" y="200" width="200" height="120" as="geometry" />
+        <mxCell id="76cBSY4xD8Pk0UBM5iLu-5" value="HACER&amp;nbsp;&lt;div&gt;SEGUIMIENTOS DE&amp;nbsp;&lt;/div&gt;&lt;div&gt;LAS AUDITORÍAS&lt;/div&gt;&lt;div&gt;REALIZADAS A&lt;/div&gt;&lt;div&gt;LOS ENTES&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=40;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="502" y="200" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="76cBSY4xD8Pk0UBM5iLu-6" value="PROVEER&amp;nbsp;&lt;div&gt;REPORTES DE LAS&lt;/div&gt;&lt;div&gt;ACTUACIONES&lt;/div&gt;&lt;div&gt;REALIZADAS EN&amp;nbsp;&lt;/div&gt;&lt;div&gt;EL AÑO&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;PARA LA&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;RENDICIÓN DE CUENTAS&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=40;" vertex="1" parent="1">
-          <mxGeometry x="680" y="200" width="200" height="120" as="geometry" />
+        <mxCell id="76cBSY4xD8Pk0UBM5iLu-6" value="PROVEER&amp;nbsp;&lt;div&gt;REPORTES DE LAS&lt;/div&gt;&lt;div&gt;ACTUACIONES&lt;/div&gt;&lt;div&gt;REALIZADAS EN&amp;nbsp;&lt;/div&gt;&lt;div&gt;EL AÑO&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;PARA LA&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;RENDICIÓN DE CUENTAS&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=40;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="770" y="200" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="76cBSY4xD8Pk0UBM5iLu-7" value="Lleva un control de los entes descen&lt;span style=&quot;background-color: initial;&quot;&gt;tralizados que reciben&lt;/span&gt;&lt;div&gt;financiación por parte de la Gobernación de Miranda&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry y="360" width="200" height="120" as="geometry" />
@@ -25,8 +25,11 @@
         <mxCell id="76cBSY4xD8Pk0UBM5iLu-8" value="Se hacen auditorías fiscales a los entes descentralizados del estado Miranda para comprobar su gestión y correcta utilización de bienes y financiamiento" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="360" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="76cBSY4xD8Pk0UBM5iLu-9" value="C" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="470" y="360" width="200" height="120" as="geometry" />
+        <mxCell id="76cBSY4xD8Pk0UBM5iLu-9" value="Cuando una auditoría queda inconclusa y se vuelven a dirigir al ente se hace un seguimiento para ver si el ente ha seguido las pautas y recomendaciones para la correcta gestión" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="470" y="360" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="76cBSY4xD8Pk0UBM5iLu-12" value="Para llevar un control de cuantas auditorías se han hecho en el año se hacen reportes con la información pertinente a la&amp;nbsp;&lt;div&gt;auditoría realizada&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="760" y="360" width="220" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
