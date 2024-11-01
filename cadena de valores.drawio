@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.2">
   <diagram name="Página-1" id="9VMDC22Fl4CS0DDhaSl-">
-    <mxGraphModel>
+    <mxGraphModel dx="786" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="76cBSY4xD8Pk0UBM5iLu-1" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;OPERACIONES DEL NEGOCIO&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="462" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="76cBSY4xD8Pk0UBM5iLu-2" value="SUPERVISIÓN DE&amp;nbsp;&lt;div&gt;LOS ENTES DESCEN-&lt;/div&gt;&lt;div&gt;TRALIZADOS DEL&lt;/div&gt;&lt;div&gt;ESTADO MIRANDA&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=40;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="10" y="200" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="76cBSY4xD8Pk0UBM5iLu-4" value="REALIZACIÓN DE&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;AUDITORÍAS EN&amp;nbsp;&lt;/div&gt;&lt;div&gt;MATERIA FISCAL&lt;/div&gt;&lt;div&gt;A LOS ENTES&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=40;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="76cBSY4xD8Pk0UBM5iLu-5" value="HACER&amp;nbsp;&lt;div&gt;SEGUIMIENTOS DE&amp;nbsp;&lt;/div&gt;&lt;div&gt;LAS AUDITORÍAS&lt;/div&gt;&lt;div&gt;REALIZADAS A&lt;/div&gt;&lt;div&gt;LOS ENTES&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=40;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="76cBSY4xD8Pk0UBM5iLu-6" value="PROVEER&amp;nbsp;&lt;div&gt;REPORTES DE LAS&lt;/div&gt;&lt;div&gt;ACTUACIONES&lt;/div&gt;&lt;div&gt;REALIZADAS EN&amp;nbsp;&lt;/div&gt;&lt;div&gt;EL AÑO&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;PARA LA&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;RENDICIÓN DE CUENTAS&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=40;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="76cBSY4xD8Pk0UBM5iLu-7" value="Lleva un control de los entes descen&lt;span style=&quot;background-color: initial;&quot;&gt;tralizados que reciben&lt;/span&gt;&lt;div&gt;financiación por parte de la Gobernación de Miranda&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry y="360" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="76cBSY4xD8Pk0UBM5iLu-8" value="Se hacen auditorías fiscales a los entes descentralizados del estado Miranda para comprobar su gestión y correcta utilización de bienes y financiamiento" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="360" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="76cBSY4xD8Pk0UBM5iLu-9" value="C" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="470" y="360" width="200" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
